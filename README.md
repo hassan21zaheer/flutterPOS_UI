@@ -2,4 +2,5 @@
 
 Flutter POS UI
 
-<img width="1001" alt="Screenshot 2025-01-14 at 4 46 18 PM" src="https://github.com/user-attachments/assets/2442db21-b920-45ae-92ee-289654de45ff" />
+<img width="1280" alt="Screenshot 2025-01-14 at 5 36 38 PM" src="https://github.com/user-attachments/assets/d4a0c90e-2cff-4403-b351-5fa258dcd89c" />
+
