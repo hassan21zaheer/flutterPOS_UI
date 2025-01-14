@@ -538,7 +538,7 @@ class MyHomePage extends StatelessWidget {
                                 const Positioned(
                                     top: 70,
                                     child: Text(
-                                      'Ksh 450',
+                                      'Rs 450',
                                       style: TextStyle(color: Colors.white),
                                     )),
                                 Positioned(
@@ -627,7 +627,7 @@ class MyHomePage extends StatelessWidget {
                                 const Positioned(
                                     top: 70,
                                     child: Text(
-                                      'Ksh 1450',
+                                      'RS 1450',
                                       style: TextStyle(color: Colors.white),
                                     )),
                                 Positioned(
@@ -720,7 +720,7 @@ class MyHomePage extends StatelessWidget {
                                 const Positioned(
                                     top: 70,
                                     child: Text(
-                                      'Ksh 1250',
+                                      'RS 1250',
                                       style: TextStyle(color: Colors.white),
                                     )),
                                 Positioned(
@@ -809,7 +809,7 @@ class MyHomePage extends StatelessWidget {
                                 const Positioned(
                                     top: 70,
                                     child: Text(
-                                      'Ksh 2450',
+                                      'RS 2450',
                                       style: TextStyle(color: Colors.white),
                                     )),
                                 Positioned(
@@ -902,7 +902,7 @@ class MyHomePage extends StatelessWidget {
                                 const Positioned(
                                     top: 70,
                                     child: Text(
-                                      'Ksh 1050',
+                                      'RS 1050',
                                       style: TextStyle(color: Colors.white),
                                     )),
                                 Positioned(
@@ -991,7 +991,7 @@ class MyHomePage extends StatelessWidget {
                                 const Positioned(
                                     top: 70,
                                     child: Text(
-                                      'Ksh 1750',
+                                      'RS 1750',
                                       style: TextStyle(color: Colors.white),
                                     )),
                                 Positioned(
@@ -1084,7 +1084,7 @@ class MyHomePage extends StatelessWidget {
                                 const Positioned(
                                     top: 70,
                                     child: Text(
-                                      'Ksh 1500',
+                                      'RS 1500',
                                       style: TextStyle(color: Colors.white),
                                     )),
                                 Positioned(
@@ -1173,7 +1173,7 @@ class MyHomePage extends StatelessWidget {
                                 const Positioned(
                                     top: 70,
                                     child: Text(
-                                      'Ksh 2000',
+                                      'RS 2000',
                                       style: TextStyle(color: Colors.white),
                                     )),
                                 Positioned(
@@ -1505,7 +1505,7 @@ class MyHomePage extends StatelessWidget {
                           top: 15,
                           right: 15,
                           child: Text(
-                            'Ksh 4500',
+                            'RS 4500',
                             style: TextStyle(
                               color: Colors.white,
                             ),
@@ -1547,7 +1547,7 @@ class MyHomePage extends StatelessWidget {
                           top: 15,
                           right: 15,
                           child: Text(
-                            'Ksh 3500',
+                            'RS 3500',
                             style: TextStyle(
                               color: Colors.white,
                             ),
@@ -1589,7 +1589,7 @@ class MyHomePage extends StatelessWidget {
                           top: 15,
                           right: 15,
                           child: Text(
-                            'Ksh 1500',
+                            'RS 1500',
                             style: TextStyle(
                               color: Colors.white,
                             ),
@@ -1631,7 +1631,7 @@ class MyHomePage extends StatelessWidget {
                           top: 15,
                           right: 15,
                           child: Text(
-                            'Ksh 900',
+                            'RS 900',
                             style: TextStyle(
                               color: Colors.white,
                             ),
@@ -1662,7 +1662,7 @@ class MyHomePage extends StatelessWidget {
                               ),
                               SizedBox(width: 90),
                               Text(
-                                'Ksh 10400',
+                                'RS 10400',
                                 style: TextStyle(
                                   color: Colors.white,
                                 ),
@@ -1683,7 +1683,7 @@ class MyHomePage extends StatelessWidget {
                               ),
                               SizedBox(width: 90),
                               Text(
-                                'Ksh 1040',
+                                'RS 1040',
                                 style: TextStyle(
                                   color: Colors.white,
                                 ),
@@ -1716,7 +1716,7 @@ class MyHomePage extends StatelessWidget {
                               ),
                               SizedBox(width: 70),
                               Text(
-                                'Ksh 1040',
+                                'RS 1040',
                                 style: TextStyle(
                                   color: Colors.white,
                                   fontWeight: FontWeight.bold,
